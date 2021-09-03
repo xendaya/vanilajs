@@ -1,4 +1,4 @@
-### Vanilla-javascript
+### Vanilla-JavaScript
 This is a repo containing only beginner friendly javascript projects that I've learned.
 
-1. Vanilla Javascript Stopwatch
+1- Stopwatch [https://stopwatchh.vercel.app/]
